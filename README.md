@@ -1,4 +1,4 @@
-# Protein-P-Interaction_Classification 
+# Protein-protein-Interaction_Classification 
 A python solution towards classifying different protein-protein interactions among Protein Sequences.
 # Biological word embeddings can be downloaded from https://github.com/cambridgeltl/BioNLP-2016, and put in bio_nlp_vec/PubMed-shuffle-win-2.txt
 
